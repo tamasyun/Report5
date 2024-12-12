@@ -6,3 +6,7 @@
 - 「NullPointerException」を catchする。
 - NullPointerExceptionが発生したことを標準出力する。
 - 例外インスタンスを用いて、getMessage()を出力する。
+## ステップ3: APIリファレンスを参照してみよう。
+- String型変数strに文字列"壱百満"を代入する。
+- Integer.parseInt(String s)メソッドを用いて、int型変数valueに代入する。
+- NumberFormatExceptionが発生することを確認する。
